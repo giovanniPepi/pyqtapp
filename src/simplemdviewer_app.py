@@ -6,7 +6,7 @@ import signal
 from PyQt5.QtGui import QGuiApplication
 from PyQt5.QtCore import QUrl
 from PyQt5.QtQml import QQmlApplicationEngine, qmlRegisterType
-from md_converter import MdConverter
+from simplemdviewer.md_converter import MdConverter
 
 
 def main():
